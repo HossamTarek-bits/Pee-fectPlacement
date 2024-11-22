@@ -1,6 +1,6 @@
 # Pee-fectPlacement
 
-### MenThinkSimulator: The Ultimate Urinal Selection Algorithm
+### The Ultimate Urinal Selection Algorithm
 
 This repo tackles the real algorithmic challenge: helping men find the most optimal urinal in any given lineup. It's based on the undeniable laws of "man logic," encoded as a greedy strategy to maximize comfort and minimize awkwardness.
 
